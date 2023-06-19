@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="sftp://php.scweb.ca" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="jbrierly scweb">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/LaravelBlogApp" local="$PROJECT_DIR$/../../WEB510 PHP/LaravelBlogApp" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sftp://php.scweb.ca">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

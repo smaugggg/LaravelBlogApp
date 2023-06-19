@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9160727e-9cba-4dcc-86ea-1f48b148519a" name="jbrierly scweb">
+        <fileTransfer rootFolder="/home/jbrierley" accessType="SFTP" host="php.scweb.ca" port="22" sshConfigId="904a54cb-4e46-4d76-a6d6-fb0115fef593" sshConfig="jbrierley@php.scweb.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
